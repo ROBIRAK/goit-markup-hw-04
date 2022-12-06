@@ -131,7 +131,6 @@ body button:focus {
 
 .nav-contacts-list {
     color: #757575;
-    display: flex;
 }
 
 .contacts .nav-contacts+.nav-contacts {
