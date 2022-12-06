@@ -187,6 +187,24 @@ body button:focus {
     fill: #757575;
 }
 
+.nav-contacts-list {
+    color: #757575;
+}
+
+.contacts .nav-contacts+.nav-contacts {
+    margin-left: 50px;
+}
+
+.nav-contacts-list:hover .mail-icon-svg,
+.nav-contacts-list:focus .mail-icon-svg {
+    color: #2196f3;
+}
+
+.nav-contacts-list:hover .tel-icon-svg,
+.nav-contacts-list:focus .tel-icon-svg {
+    color: #2196f3;
+}
+
 /* Герой */
 
 .hero {
