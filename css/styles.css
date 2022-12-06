@@ -127,8 +127,6 @@ body button:focus {
 
 .contacts {
     display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .nav-contacts-list {
