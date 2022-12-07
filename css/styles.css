@@ -151,7 +151,7 @@ body button:focus {
     margin-right: 30px;
 }
 
-..contacts .nav-contacts:last-child {
+.contacts .nav-contacts:last-child {
     margin-right: 0;
 }
 
