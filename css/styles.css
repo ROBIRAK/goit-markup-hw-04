@@ -191,6 +191,13 @@ body button:focus {
     fill: #2196f3;
 }
 
+.mail-list:hover .mail-icon,
+.mail-list:focus .mail-icon {
+    cursor: pointer;
+    color: #2196f3;
+    fill: #2196f3;
+}
+
 .phone-icon {
     margin-right: 10px;
     fill: #757575;
@@ -208,13 +215,19 @@ body button:focus {
     fill: #2196f3;
 }
 
+.phone-list:hover .phone-icon,
+.phone-list:focus .phone-icon {
+    cursor: pointer;
+    color: #2196f3;
+    fill: #2196f3;
+}
 
-.mail-icon:hover,
+/* .mail-icon:hover,
 .mail-icon:hover,
 .phone-icon:hover,
 .phone-icon:focus {
     fill: #2196f3;
-}
+} */
 
 
 /* Герой */
