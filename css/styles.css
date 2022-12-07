@@ -180,21 +180,17 @@ body button:focus {
 
 .mail-list, .phone-list {
     display: flex;
-    /* color: #757575;
-    fill: #757575; */
 }
 
 .mail-list:hover,
 .mail-list:focus {
     cursor: pointer;
     color: #2196f3;
-    fill: #2196f3;
 }
 
 .mail-list:hover .mail-icon,
 .mail-list:focus .mail-icon {
     cursor: pointer;
-    color: #2196f3;
     fill: #2196f3;
 }
 
@@ -212,22 +208,14 @@ body button:focus {
 .phone-list:focus {
     cursor: pointer;
     color: #2196f3;
-    fill: #2196f3;
 }
 
 .phone-list:hover .phone-icon,
 .phone-list:focus .phone-icon {
     cursor: pointer;
-    color: #2196f3;
+    /* color: #2196f3; */
     fill: #2196f3;
 }
-
-/* .mail-icon:hover,
-.mail-icon:hover,
-.phone-icon:hover,
-.phone-icon:focus {
-    fill: #2196f3;
-} */
 
 
 /* Герой */
