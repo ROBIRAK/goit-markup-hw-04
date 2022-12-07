@@ -496,12 +496,12 @@ body button:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #afb1b8;
+    fill: #afb1b8;
 }
 
 .clients-link:hover,
 .clients-link:focus {
-    color: #2196F3;
+    fill: #2196F3;
 }
 
 /* Футер */
