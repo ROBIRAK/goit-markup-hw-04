@@ -178,7 +178,7 @@ body button:focus {
     padding-bottom: 24px;
 }
 
-.mail-list {
+.mail-list, .phone-list {
     display: flex;
     color: #757575;
 }
@@ -187,24 +187,24 @@ body button:focus {
 .mail-list:focus {
     cursor: pointer;
     color: #2196f3;
+    fill: #2196f3;
 }
 
-.phone-list {
-    display: flex;
-    color: #757575;
-}
 .phone-icon {
     margin-right: 10px;
+    fill: #757575;
 }
 
 .mail-icon {
     margin-right: 10px;
+    fill: #757575;
 }
 
 .phone-list:hover,
 .phone-list:focus {
     cursor: pointer;
     color: #2196f3;
+    fill: #2196f3;
 }
 
 
@@ -212,7 +212,7 @@ body button:focus {
 .mail-icon:hover,
 .phone-icon:hover,
 .phone-icon:focus {
-    color: #2196f3;
+    fill: #2196f3;
 }
 
 
